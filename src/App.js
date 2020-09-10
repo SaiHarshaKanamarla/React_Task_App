@@ -10,7 +10,7 @@ function App(){
             <Header />
             <MyInfo />
             <Footer />
-            {/* <TodoRow /> */}
+            <TodoRow />
         </div>        
     )
 }
