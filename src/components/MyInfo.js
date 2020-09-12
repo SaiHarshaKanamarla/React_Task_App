@@ -2,7 +2,7 @@ import React from 'react';
 
 function MyInfo(){
     return(
-        <div>            
+        <div className="para">            
             <p> This is a para about myself</p>
                 <ul>
                     <li>Istanbul</li>
