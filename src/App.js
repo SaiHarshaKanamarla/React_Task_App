@@ -7,9 +7,9 @@ import TodoRow from './components/TodoRow';
 function App(){
     return (
         <div>
-            {/* <Header />
+            <Header />
             <MyInfo />
-            <Footer /> */}
+            <Footer />
             <TodoRow />
         </div>        
     )
